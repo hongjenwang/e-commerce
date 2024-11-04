@@ -10,13 +10,11 @@ This is a simple e-commerce site built with Django. It allows users to browse pr
 
 ## Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-
+**1. **Clone the repository:**
+   
 **2. Create and activate a virtual environment:**
    python3 -m venv venv
+   
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 **3. Install dependencies:**
