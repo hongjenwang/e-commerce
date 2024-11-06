@@ -1,6 +1,7 @@
 # Django E-commerce Site
 
-This is a simple e-commerce site built with Django. It allows users to browse products, add them to their cart, and make purchases.
+This is a simple e-commerce site built with Django. It allows users to sign up, browse products, add them to their cart, and make purchases.
+The admin (superuser) of the app can add categories, products, images, and other functionalities with the Django administration backend. 
 
 ## Features
 - User authentication and authorization
@@ -10,7 +11,7 @@ This is a simple e-commerce site built with Django. It allows users to browse pr
 
 ## Installation
 
-**1. **Clone the repository:**
+**1. Clone the repository:**
    
 **2. Create and activate a virtual environment:**
    python3 -m venv venv
@@ -31,6 +32,9 @@ This is a simple e-commerce site built with Django. It allows users to browse pr
 
 **7. Access the application:**
    Open your browser and navigate to http://127.0.0.1:8000/
+
+**8. Access Django backend as superuser:**
+   Open your browser and navigate to http://127.0.0.1:8000/admin (after a superuser has been created) to have access to the Django administration page
 
 ## Environment Variables
 
