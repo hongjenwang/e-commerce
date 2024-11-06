@@ -11,7 +11,7 @@ The admin (superuser) of the app can add categories, products, images, and other
 
 ## Installation
 
-**1. Clone the repository:**
+**1. Clone the repository**
    
 **2. Create and activate a virtual environment:**
    python3 -m venv venv
